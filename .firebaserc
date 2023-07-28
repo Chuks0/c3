@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ozodi-inc": {
+      "hosting": {
+        "c3": [
+          "c3oem"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ozodi-inc"
+  }
+}

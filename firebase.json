@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "c3",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
